@@ -1,4 +1,4 @@
-DATAPATH=$HOME/nucdata/endfb7.1_nndc
+DATAPATH=
 atomic weight ratios
    0001  1.000000      0001  1.000000
    1000  0.99931697    1001  0.99916732   1002  1.99679966   1003  2.99013994
